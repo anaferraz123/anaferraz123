@@ -1,15 +1,17 @@
 # Localization QA Portfolio
 
-**Ana Ferraz** — Localization QA Specialist (EN ⇄ PT-BR)  
+**Ana Ferraz** — Localization QA (EN ⇄ PT-BR)  
 *Accuracy, Usability & Trust Across Languages*  
 [LinkedIn](https://www.linkedin.com/in/anacarolinaferraz/) · [Email](ana.ferraz.lqa@gmail.com)
 
 ---
 
 ## About Me
-This portfolio highlights my hands‑on work in **Localization QA**, with case studies using free tools to test and refine multilingual content.  
-With 15+ years across in MedTech and and an MSc in International Pharmaceutical Business Management, I bring **analytical strength** and a **quality‑driven approach**.  
-I detect linguistic, functional, and UI issues, enforce terminology, and combine **established QA methods** (QA logs, test cases, style guides) with **emerging industry approaches** (MQM, MTPE, LLM‑assisted QA) — ensuring both present reliability and future readiness.
+This portfolio showcases my hands-on work in **Localization QA**, with case studies demonstrating how free tools can be used to test and refine multilingual content.
+
+With 15+ years of experience in Business Operations across the healthcare and tech industries, and an MSc in International Pharmaceutical Business Management, I bring **analytical strength** and a **quality-driven mindset**.
+
+I uncover linguistic, functional, and UI issues, enforce terminology, and combine **established QA methods** (QA logs, test cases, style guides) with **emerging practices** (MQM, MTPE, LLM-assisted QA) — ensuring both present reliability and future readiness.
 
 ---
 
