@@ -2,7 +2,7 @@
 
 **Ana Ferraz** — Localization QA Specialist (EN ⇄ PT-BR)  
 *Accuracy, Usability & Trust Across Languages*  
-[LinkedIn](#) · [Email](#)
+[LinkedIn](https://www.linkedin.com/in/anacarolinaferraz/) · [Email](ana.ferraz.lqa@gmail.com)
 
 ---
 
