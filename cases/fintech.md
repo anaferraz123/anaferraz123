@@ -1,24 +1,25 @@
 ---
 layout: default
-title: FinTech — Terminology & Style-Guide
-permalink: /cases/medtech/
+title: FinTech — MQM + LLM QA
+permalink: /cases/fintech/
 ---
 
-# FinTech — Terminology & Style-Guide Enforcement
+# FinTech — MQM + LLM QA Workflow
 
-**Tools:** MateCat, lexiQA  
-**Focus:** Glossary enforcement, consistency, stylistic accuracy (EN ⇄ PT-BR) for regulated content.  
+**Tools:** MateCat, MQM Framework, Jira, Qase, LLM (pre-checks)  
+**Focus:** Testing structured flows (login, payments, truncation) with MQM human review and AI-assisted checks.  
 
 **Deliverables:**
-- QA logs and error reports (MateCat + lexiQA)
-- Bilingual files (XLIFF)
-- Visual evidence (workflow screenshots)
-- Executive QA report
+- Structured test cases (TC-001 to TC-007)
+- MQM QA logs and severity analysis
+- Terminology glossary (PT-BR)
+- Jira/Qase bug reports (with screenshots)
+- Report: *LLM-Assisted QA Workflow*
 
 **Highlights:**
-- Ensured terminology compliance for MedTech glossary
-- Resolved placeholder/formatting risks
-- Structured reporting (issue type, severity, impact)
+- Linked defects to MQM categories
+- Demonstrated LLM pre-check for faster QA
+- Provided bug evidence in Jira card format
 
 ➡ **Full portfolio (Google Docs):**  
 <https://docs.google.com/document/d/e/2PACX-1vSl42937ykFYoWDjq6ktEjuQAzU2Az3i4eV9ZPS7thAcwnmS693o4bQ6xet4wsUsHsY7dJn-Lyhsly7/pub>
