@@ -1,24 +1,25 @@
 ---
 layout: default
-title: WebApp — Terminology & Style-Guide
-permalink: /cases/medtech/
+title: WebApp — Crowdin LQA (30 Strings)
+permalink: /cases/webapp/
 ---
 
-# WebApp — Terminology & Style-Guide Enforcement
+# WebApp — Crowdin LQA (30 Strings)
 
-**Tools:** MateCat, lexiQA  
-**Focus:** Glossary enforcement, consistency, stylistic accuracy (EN ⇄ PT-BR) for regulated content.  
+**Tools:** Crowdin, QA log, test cases, screenshots  
+**Focus:** Evaluating 30 strings (EN ⇄ PT-BR) for UI consistency, placeholders, date formats, and pluralization.  
 
 **Deliverables:**
-- QA logs and error reports (MateCat + lexiQA)
-- Bilingual files (XLIFF)
-- Visual evidence (workflow screenshots)
+- QA logs with severity levels
+- Bilingual Crowdin XLIFF file
+- Upload-ready CSV for TMS
+- Visual evidence (screenshots)
 - Executive QA report
 
 **Highlights:**
-- Ensured terminology compliance for Health_SaaS glossary
-- Resolved placeholder/formatting risks
-- Structured reporting (issue type, severity, impact)
+- Identified critical issues in placeholders and number formats
+- Built reusable test cases for string validation
+- Delivered before/after QA logs to show fixes
 
 ➡ **Full portfolio (Google Docs):**  
 <https://docs.google.com/document/d/e/2PACX-1vSl42937ykFYoWDjq6ktEjuQAzU2Az3i4eV9ZPS7thAcwnmS693o4bQ6xet4wsUsHsY7dJn-Lyhsly7/pub>
