@@ -22,4 +22,4 @@ permalink: /cases/fintech/
 - Provided bug evidence in Jira card format
 
 ➡ **Full portfolio (Google Docs):**  
-<https://docs.google.com/document/d/e/2PACX-1vSl42937ykFYoWDjq6ktEjuQAzU2Az3i4eV9ZPS7thAcwnmS693o4bQ6xet4wsUsHsY7dJn-Lyhsly7/pub>
+<https://https://docs.google.com/document/d/e/2PACX-1vSl42937ykFYoWDjq6ktEjuQAzU2Az3i4eV9ZPS7thAcwnmS693o4bQ6xet4wsUsHsY7dJn-Lyhsly7/pub>
