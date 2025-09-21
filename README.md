@@ -1,59 +1,40 @@
-# Localization QA Portfolio
-
-Welcome! This portfolio highlights my work in **Localization Quality Assurance (LQA)** across multiple industries and content types — from **regulated MedTech documentation** to **FinTech applications, web apps, and live websites**.  
-
-The projects demonstrate not only **technical QA execution** (logs, test cases, bilingual files, bug reports) but also **strategic reporting and workflow management**, using both human and AI-assisted methods.
 
 ---
 
-## 📂 Case Studies Overview
+## About Me
+This portfolio showcases my hands-on work in **Localization QA**, with case studies demonstrating how free tools can be used to test and refine multilingual content.
 
-| #  | Case Study | Tools | Deliverables | Link |
-|----|------------|-------|--------------|------|
-| 01 | **MedTech – Terminology & Style-Guide Enforcement** | MateCat, lexiQA | QA logs, glossary enforcement, bilingual files, QA report | [View Folder]([(https://drive.google.com/drive/folders/1osUc6zdS8N1_nDEbBxq3hrfM6oy7iLUg))
-| 02 | **FinTech – MQM & LLM QA Workflow** | MateCat, MQM Framework, Jira, Qase | Test cases, MQM logs, glossary, bug reports, workflow reports | [View Folder]([https://drive.google.com/drive/folders/1D5RZmb775pBAIfdgbVLXuiM1dE0BE6Be]) |
-| 03 | **WebApp – Crowdin LQA (30 Strings)** | Crowdin | QA log, bilingual XLIFF, screenshots, QA report | [View Folder]([https://drive.google.com/drive/folders/11Tjk4ke4b7E4PZn0VY8f-BJ9IATsz7Qn]) |
-| 04 | **UI Website – Meituan Careers (China)** | Manual QA Workflow | Manual QA log, screenshots, executive report | [View Folder]([https://drive.google.com/drive/folders/16DhgBHTZtWmXSFAKA9-y1ViarV48hjgI]) |
+With 15+ years of experience in Business Operations across the healthcare and tech industries, and an MSc in International Pharmaceutical Business Management, I bring **analytical strength** and a **quality-driven mindset**.
+
+I uncover linguistic, functional, and UI issues, enforce terminology, and combine **established QA methods** (QA logs, test cases, style guides) with **emerging practices** (MQM, MTPE, LLM-assisted QA) — ensuring both present reliability and future readiness.
 
 ---
 
-## 📝 Case Study Highlights
+## Case Studies (start here)
 
-### 01 – MedTech (MateCat + lexiQA)  
-Applied **terminology and style-guide enforcement** to a MedTech white paper (EN ⇄ PT-BR).  
-- Showcased precision in regulated content.  
-- Deliverables: QA logs, glossary checks, bilingual files, full QA report.  
+- **[[WebApp](https://drive.google.com/open?id=1T8DuyenY8r8e7wdEcl1Aps5knzYqqfo5)] LQA Test (30 Strings)**  
+  Report: *Localization QA Report – EN ⇄ PT‑BR* — [Link](https://drive.google.com/open?id=1DN4OYNbPTbWNOYJxfDf1al2h0LUQ6C7S)
 
----
+- **[[MedTech](https://drive.google.com/open?id=1I3ULfEH70OgT_NLp02v293M9IbRp4h39)] Terminology & Style Guide Enforcement (IQVIA)**  
+  Report: *Terminology & Style‑Guide Enforcement Report* — [Link](https://drive.google.com/open?id=1kYpJ4CBEYiEKhub9iJQNz_obhx0JqXLS)  
+  Extras: LQA Report (EN ⇄ PT‑BR) [Link](https://drive.google.com/open?id=1reeb1D4-qg_xH-SFKvN0Az7m9aRxb0XL) · Glossary (EN ⇄ PT‑BR) [Link](https://docs.google.com/spreadsheets/u/0/d/1LEw68YV2o2-hx-kWyEr0CulvJ0VwVt8aKI_q3iCtbgA/edit) · Screenshots (MateCat Workflow) [Link](https://drive.google.com/open?id=1aPDjEYrymCLYruaAgrmOaHAOp7mM3jX4)
 
-### 02 – FinTech MQM & LLM QA (MateCat + Jira/Qase)  
-Tested FinTech app strings using the **MQM framework**, supported by **LLM-assisted pre-checks**.  
-- Combined human QA validation with AI-driven analysis.  
-- Deliverables: Structured test cases, bug reports, MQM logs, glossary, workflow reports.  
+- **[[Frameworks](https://drive.google.com/open?id=1XT83BO7poKRp7MlEAdyYTYmbBymAD4Bw)] Future QA Approaches (FinTech)**  
+  Report: *MQM/LLM QA Log + Workflow Report* — [Link](https://drive.google.com/open?id=1XjVtbQLcW-7Zhr4yHbMZr4kmZR2lfpSY)
+  Extras: Test & Bug Management Report (JIRA) [Link](https://drive.google.com/file/d/1GZL0cKtboMHAwTwdzZb-zTz0bV0HzKcU/view?usp=drive_link)
 
----
-
-### 03 – WebApp (Crowdin LQA Test – 30 Strings)  
-Conducted QA on 30 UI strings for a live WebApp.  
-- Focused on **functional QA**: date formats, placeholders, pluralization.  
-- Deliverables: QA log (XLSX/CSV), bilingual XLIFF, annotated screenshots, QA report.  
+- **[[UI/Website](https://drive.google.com/open?id=1NbJ4vH17iOTIMTM9AU6OZF4aTeHI9sDL)] Meituan Jobs**  
+  Report: *Localization QA Report – EN ⇄ PT‑BR* — [Link](https://drive.google.com/open?id=1oKaF9lfCkdd231TZl5TR1M4on3KxeQFe)
 
 ---
 
-### 04 – UI Website (Meituan Careers – China)  
-Accessed the live website via LinkedIn redirection to review **real-world MT output**.  
-- Observed risks in **MTPE without review**, including placeholders, number formatting, and sensitive CSR content.  
-- Deliverables: Manual QA notes, screenshots, executive summary.  
+## Supporting Files (Portfolio Database)
+
+- **Glossaries** — [[MedTech](https://docs.google.com/spreadsheets/d/1LEw68YV2o2-hx-kWyEr0CulvJ0VwVt8aKI_q3iCtbgA/edit?usp=drive_link)], [[FinTech](https://docs.google.com/spreadsheets/d/170ZtjIlu8ZUMYQaXI5nWFDvv5whO4Ric/edit?gid=198219439#gid=198219439)] Samples gathered up to day
+- **Screenshots** — [[WebApp](https://drive.google.com/file/d/1vfEzSOt4B3yZbMsufq3eJpOumHO5eASq/view?usp=drive_link)], [[MedTech](https://drive.google.com/file/d/1aPDjEYrymCLYruaAgrmOaHAOp7mM3jX4/view?usp=drive_link)] workflows 
+- **Severity & Evaluation Frameworks** — EPT thresholds, evaluation grid [Link](https://docs.google.com/spreadsheets/d/1GdiORcHg585q36UJQSbsKYIENhigQOIv/edit?gid=1881185894#gid=1881185894)
 
 ---
 
-## 🔑 Key Takeaways  
-- **Tool expertise:** MateCat, Crowdin, lexiQA, Jira, Qase, MQM Framework.  
-- **Workflows covered:** terminology enforcement, MTPE evaluation, UI/WebApp QA, AI-assisted workflows.  
-- **Deliverables produced:** QA logs, bilingual files, structured test cases, screenshots, and executive-level reports.  
+> Replace each **[Link]** with the URL to the file in this repo or your Drive/Notion.
 
----
-
-## 📬 Contact  
-Interested in collaboration or learning more about my work?  
-👉 [Connect with me on LinkedIn]([https://www.linkedin.com/in/anacarolinaferraz]) | [View more projects]([https://github.com/anaferraz123?tab=repositories])  
