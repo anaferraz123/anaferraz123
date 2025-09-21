@@ -18,7 +18,7 @@ title: Localization QA Portfolio
 
 Welcome to my Localization QA portfolio. This site is powered by GitHub Pages with a Jekyll theme.
 
-👉 [**View Full Portfolio (Google Docs)**](https://docs.google.com/document/d/e/2PACX-1vSl42937ykFYoWDjq6ktEjuQAzU2Az3i4eV9ZPS7thAcwnmS693o4bQ6xet4wsUsHsY7dJn-Lyhsly7/pub)
+👉 [**View Full Portfolio (Google Docs)**](https://docs.google.com/document/d/e/2PACX-1vSWd8H6cBDfHcR29eDtUj3lpz63UOMzhgEQpDbkkGWfwCKNa23bh59KFwjGsDcB4Ehn0TK3dnqVPwQN/pub)
 
 ---
 
