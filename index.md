@@ -4,9 +4,9 @@
   <meta charset="utf-8" />
   <title>Ana Ferraz — Localization QA Portfolio</title>
   <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <!-- Instant redirect to Notion -->
-  <meta http-equiv="refresh" content="0; url=https://sable-moose-6a2.notion.site/Home-27523e2ca9588078a603e8dfc61b8bb8" />
-  <link rel="canonical" href="https://sable-moose-6a2.notion.site/Home-27523e2ca9588078a603e8dfc61b8bb8" />
+  <!-- Instant redirect to Super.site -->
+  <meta http-equiv="refresh" content="0; url=https://ana-ferraz.super.site/" />
+  <link rel="canonical" href="https://ana-ferraz.super.site/" />
   <style>
     html,body {height:100%;}
     body {
@@ -29,8 +29,8 @@
 <body>
   <div class="card">
     <h1>Redirecting to Portfolio…</h1>
-    <p>If you’re not redirected automatically, <a href="https://sable-moose-6a2.notion.site/Home-27523e2ca9588078a603e8dfc61b8bb8">click here</a>.</p>
-    <a class="btn" href="https://sable-moose-6a2.notion.site/Home-27523e2ca9588078a603e8dfc61b8bb8">Open Notion Portfolio</a>
+    <p>If you’re not redirected automatically, <a href="https://ana-ferraz.super.site/">click here</a>.</p>
+    <a class="btn" href="https://ana-ferraz.super.site/">Open Portfolio</a>
   </div>
 </body>
 </html>
